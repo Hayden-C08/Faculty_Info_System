@@ -1,5 +1,5 @@
 
-# Faculty Information System (FIS)
+# Faculty Info System
 
 The Faculty Information System (FIS) is a comprehensive solution designed to efficiently organize and manage crucial information related to faculty members in educational institutions. This system aims to streamline the management of faculty details, educational qualifications, work experience, research papers, and more.
 
